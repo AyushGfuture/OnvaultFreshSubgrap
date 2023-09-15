@@ -1,16 +1,16 @@
 {
   "goerli": {
     "BorrowerOperations": {
-      "address": "0x39324d50E25795b87395d6ad5277f09A8BF56863"
+      "address": "0xA4232aC7D09520F7530B611984eFF5Ff38519F38"
     },
     "VaultManager": {
-      "address": "0xE11F19f2a03a9a134d57eC38980074Ab071Ae108"
+      "address": "0x35Bd54bAD498A4Ed25fe5d669c3869fc7DD4a075"
     },
     "SortedVaults": {
-      "address": "0x5590eFF676041Ee2b582A4A8bB3405dd918ba40E"
+      "address": "0x1795aB3Eee473Bd6A947f886631F2EB7e5e9a2e7"
     },
     "StabilityPool": {
-      "address": "0x31e7134D3a63AF6ced78CF404e7B60814D753CFd"
+      "address": "0xCa722a8F5be5b3ABFD28dD654b0EB530Fd946fBB"
     }
   }
 }
